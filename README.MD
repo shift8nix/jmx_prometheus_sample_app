@@ -4,8 +4,6 @@ App to test AWS CloudWatch Container Insights
 
 Built using these instructions: https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/ContainerInsights-Prometheus-Sample-Workloads-javajmx.html
 
-Config file taken from jmx exporter Tomcat example: https://github.com/prometheus/jmx_exporter
-
 ## Build locally
 
 ```
